@@ -33,6 +33,7 @@
 #include <uk/tlsf.h>
 #include <uk/alloc_impl.h>
 #include <tlsf.h>
+#include <inttypes.h> /* for uintptr_t */
 
 /* malloc interface */
 
